@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there 👋 it's me Soundarajan S.R
 
-<!--
-**soundarGit2/soundarGit2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Information Technology Student
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🌱 I’m currently learning web development
+- 💬 Ask me about Tech
+- 📫 How to reach me:
+  
+
+
+## I code in
+
+ ![this is link](https://img.icons8.com/color/48/c-programming.png)  ![this is link](https://img.icons8.com/color/48/c-plus-plus-logo.png)     ![this is link](https://img.icons8.com/fluency/48/python.png) ![this is link](https://img.icons8.com/color/48/javascript--v1.png) ![this is link](https://img.icons8.com/color/48/html-5--v1.png) ![this is link](https://img.icons8.com/color/48/css3.png)  ![this is link](https://img.icons8.com/color/48/react-native.png)  ![this is link](https://img.icons8.com/fluency/50/node-js.png) ![this is link](https://img.icons8.com/color/48/mongodb.png)   ![this is link](https://img.icons8.com/arcade/48/sql.png)
+  
