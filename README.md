@@ -4,7 +4,7 @@
 -💻 B.Tech IT Student | Web Developer | MERN Stack Enthusiast  
 -🚀 Currently building: Full-Stack Projects, Real-Time Apps, and AI-Driven Systems  
 -🔧 Tech Stack: HTML, CSS, JavaScript, React.js, Node.js, Express, MongoDB  
--🎯 Learning: Backend Development | Git & GitHub |
+-🎯 Learning: Backend Development | Git & GitHub 
 -📂 Projects: Job Portals, Drowsiness Detection System, 3D Portfolios  
 -📚 Passionate about Open Source, Clean Code, and Scalable Applications  
 -🧠 Always exploring: AI, Real-Time Systems  
