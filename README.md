@@ -16,4 +16,4 @@ Information Technology Student
   
 ## Tools
 ![this is link](https://img.icons8.com/color/48/figma--v1.png)![this is link](https://img.icons8.com/fluency/48/visual-studio-code-2019.png)![this is link](https://img.icons8.com/color/48/git.png)
-
+![this is link](https://img.icons8.com/color/48/power-bi-2021.png)
