@@ -1,4 +1,4 @@
-## Hi there 👋 it's me Soundarajan S.R
+## Hi there 👋 It's me Soundarajan S.R
 
 
 -💻 B.Tech IT Student | Web Developer | MERN Stack Enthusiast  
